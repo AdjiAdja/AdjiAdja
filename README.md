@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/arceniexa-dev/arceniexa-dev/blob/main/photo_6055576886189952319_y.jpg?raw=true" width="120" style="border-radius: 50%"/>
-
 <br>
 
 # SutanNetzWerkstatt
