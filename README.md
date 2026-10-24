@@ -173,12 +173,12 @@ flowchart LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=779ECF&icon_color=779ECF&text_color=c9d1d9&hide_border=true">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&title_color=4a6fa5&icon_color=4a6fa5&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arceniexa-dev&show_icons=true&theme=transparent&title_color=779ECF&icon_color=779ECF&text_color=c9d1d9&hide_border=true">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=arceniexa-dev&show_icons=true&theme=default&title_color=4a6fa5&icon_color=4a6fa5&hide_border=true" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=779ECF&text_color=c9d1d9&hide_border=true">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&title_color=4a6fa5&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arceniexa-dev&layout=compact&theme=transparent&title_color=779ECF&text_color=c9d1d9&hide_border=true">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arceniexa-dev&layout=compact&theme=default&title_color=4a6fa5&hide_border=true" />
 </picture>
 
 </div>
