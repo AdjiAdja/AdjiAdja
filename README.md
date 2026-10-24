@@ -190,8 +190,8 @@ flowchart LR
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-779ECF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:arcenixtermux@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-779ECF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/USERNAME_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-779ECF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/USERNAME_IG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-779ECF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/sutan-alamsyah-lindu-adjie)
+[![Instagram](https://img.shields.io/badge/Instagram-779ECF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/prammadia_qubrix)
 
 <br/>
 
