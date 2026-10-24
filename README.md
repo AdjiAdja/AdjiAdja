@@ -197,8 +197,8 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:779ECF&height=100&section=footer" width="100%" alt=""/>
 
-</div>(https://linkedin.com/in/USERNAME_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-779ECF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/USERNAME_IG)
+</div>(https://linkedin.com/in/sutan-alamsyah-lindu-adjie)
+[![Instagram](https://img.shields.io/badge/Instagram-779ECF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/prammadia_qubrix)
 
 <br/>
 
