@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
-  <img src="./assets/hero-light.png" alt="ADJI project - Electronic Engineer and Software Developer" width="100%"/>
+  <img src="hero-light.png" alt="ADJI project - Electronic Engineer and Software Developer" width="100%"/>
 </picture>
 
 <br/>
