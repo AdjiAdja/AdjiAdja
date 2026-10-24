@@ -1,172 +1,197 @@
-<!-- ======================= HEADER ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b2a41,100:779ECF&height=200&section=header&text=Hi,%20I'm%20Adji&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronic%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=20" width="100%" alt="header"/>
-
-<img src="./assets/logo.png" alt="ADJI project logo" width="260"/>
+<img src="./assets/logo.png" alt="ADJI project" width="240"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=779ECF&center=true&vCenter=true&width=700&lines=Merancang+hardware+yang+cerdas+%E2%9A%A1;Menulis+firmware+%26+software+yang+andal+%F0%9F%92%BB;Dari+PCB+sampai+Cloud+%E2%80%94+IoT+End-to-End+%F0%9F%8C%90;Build.+Flash.+Debug.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=779ECF&center=true&vCenter=true&width=640&height=40&lines=Electronic+Engineer+%C2%B7+Software+Developer;Embedded+Systems+%C2%B7+IoT+%C2%B7+Industrial+Automation;From+schematic+to+deployment" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=779ECF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=1b2a41)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=1b2a41)
+[![About](https://img.shields.io/badge/About-779ECF?style=flat-square&labelColor=0d1117)](#about)
+[![Focus](https://img.shields.io/badge/Focus-779ECF?style=flat-square&labelColor=0d1117)](#focus-areas)
+[![Stack](https://img.shields.io/badge/Stack-779ECF?style=flat-square&labelColor=0d1117)](#technical-stack)
+[![Projects](https://img.shields.io/badge/Projects-779ECF?style=flat-square&labelColor=0d1117)](#selected-work)
+[![Contact](https://img.shields.io/badge/Contact-779ECF?style=flat-square&labelColor=0d1117)](#contact)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 Tentang Saya
+## About
 
-```cpp
-#include <Adji.h>
+I'm **Adji**, an electronic engineer and software developer. I design embedded hardware, write the firmware that runs on it, and build the software around it, so a device doesn't just work on the bench but keeps working in the field.
 
-class Adji : public Engineer  // ADJI project {
-  public:
-    String role[2]    = {"Electronic Engineer", "Software Developer"};
-    String focus[4]   = {"Embedded Systems", "IoT", "PCB Design", "Industrial Automation"};
-    String favorite[3]= {"Arduino Uno", "Espressif (ESP32)", "Raspberry Pi"};
-    String motto      = "If it blinks, ship it. If it doesn't, debug it.";
+My day-to-day platforms are **Arduino**, **Espressif (ESP32 family)** and **Raspberry Pi**, backed by PCB design, industrial protocols, and Python/C++ tooling.
 
-    void loop() {
-      design();  // skematik & PCB
-      code();    // firmware & software
-      test();    // ukur, debug, perbaiki
-      deploy();  // sampai berjalan di lapangan
-    }
-};
-```
+<br/>
 
-- 🔭 Sedang membangun sistem **IoT & monitoring** berbasis ESP32 dan Raspberry Pi
-- 🌱 Terus belajar: **Embedded C/C++, Python, PCB layout, dan integrasi industri**
-- ⚡ Suka menghubungkan dunia **hardware ↔ software** menjadi satu sistem yang utuh
-- 🤝 Terbuka untuk kolaborasi proyek **embedded, IoT, dan otomasi**
-
----
-
-## 🛠️ Technical Skill Matrix
+## Focus Areas
 
 <table>
   <tr>
-    <th align="left">Category</th>
+    <td width="33%" valign="top">
+      <h4>Embedded &amp; IoT</h4>
+      Firmware for Arduino, ESP32 and STM32. Sensor nodes, MQTT messaging, wireless connectivity, and low-power design.
+    </td>
+    <td width="33%" valign="top">
+      <h4>Hardware &amp; PCB</h4>
+      Schematic capture and board layout in KiCad, Altium and EasyEDA. Circuit simulation, prototyping, and enclosure design.
+    </td>
+    <td width="33%" valign="top">
+      <h4>Industrial &amp; Software</h4>
+      PLC, HMI/SCADA and Modbus RTU integration. Dashboards, bots and web tools in Python to make field data useful.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Technical Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,py,matlab,kicad,autocad,linux,bash,git,github,docker,grafana&perline=7" alt="Tech stack icons" />
+
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <th align="left" width="22%">Category</th>
     <th align="left">Tools &amp; Technologies</th>
   </tr>
   <tr>
     <td><b>Microcontrollers</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td><b>PCB Design</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Altium-A50000?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
-      <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Proteus-005A9C?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Eagle-0A90C8?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/PCB_Wizard-555555?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Altium-A50000?style=flat-square&logo=altiumdesigner&logoColor=white"/>
+      <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Proteus-005A9C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Eagle-0A90C8?style=flat-square"/>
+      <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PCB_Wizard-555555?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td><b>Mechanical CAD</b></td>
     <td>
-      <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Fritzing-777777?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Fritzing-777777?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td><b>Industrial Tech</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PLC_Mitsubishi-0B7FC7?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/HMI_&_SCADA-E8742C?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Modbus_RTU-5E9E0F?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Haiwell-D9363E?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/PLC_Mitsubishi-0B7FC7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/HMI_%26_SCADA-E8742C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Modbus_RTU-5E9E0F?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Haiwell-D9363E?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white"/>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## ⚙️ Workflow Saya
+## Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Rack Environment Monitoring</h4>
+      Per-rack temperature and humidity nodes publishing over MQTT, with Telegram alerting.<br/><br/>
+      <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>3-Phase Power Monitoring</h4>
+      Electrical measurement over Modbus RTU using PZEM-004T modules and an ESP32 gateway.<br/><br/>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Modbus_RTU-5E9E0F?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>ESP Arcade</h4>
+      Four retro games on an ESP32-C3 with an SSD1306 OLED, playable with a single button.<br/><br/>
+      <img src="https://img.shields.io/badge/ESP32--C3-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>DCIM Web Application</h4>
+      Full-stack data center infrastructure management tool for tracking racks, devices and capacity.<br/><br/>
+      <img src="https://img.shields.io/badge/Full--stack-779ECF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+> Replace or link these cards to your own repositories, e.g. `[Rack Environment Monitoring](https://github.com/USERNAME/REPO)`.
+
+<br/>
+
+## Engineering Workflow
 
 ```mermaid
 flowchart LR
-    A[💡 Ide] --> B[📐 Skematik & PCB]
-    B --> C[🔧 Prototype]
-    C --> D[💻 Firmware / Software]
-    D --> E[🧪 Test & Debug]
-    E --> F[🚀 Deploy]
-    E -. iterasi .-> B
+    A[Requirements] --> B[Schematic & PCB]
+    B --> C[Prototype]
+    C --> D[Firmware & Software]
+    D --> E[Test & Debug]
+    E --> F[Deploy & Monitor]
+    E -. iterate .-> B
 ```
 
----
+<br/>
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=779ECF&icon_color=779ECF&text_color=c9d1d9&hide_border=true">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&title_color=4a6fa5&icon_color=4a6fa5&hide_border=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=779ECF&text_color=c9d1d9&hide_border=true">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&title_color=4a6fa5&hide_border=true" />
+</picture>
 
 </div>
 
----
+<br/>
 
-## 📌 Featured Projects
-
-| Proyek | Deskripsi | Tech |
-|---|---|---|
-| 🌡️ **Smart Monitoring** | Monitoring suhu & kelembapan real-time via MQTT | ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) |
-| 🏠 **Home IoT Hub** | Server rumahan untuk kontrol & hosting perangkat IoT | ![RPi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square) |
-| 🎮 **Mini Game Console** | Game retro di layar OLED dengan satu tombol | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square) |
-| ⚡ **Power Monitor** | Pengukuran listrik 3 fasa lewat Modbus RTU | ![Modbus](https://img.shields.io/badge/-Modbus_RTU-5E9E0F?style=flat-square) |
-
-> ✏️ *Ganti isi tabel di atas dengan proyek asli kamu, lalu tambahkan link repo-nya.*
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
----
-
-## 📫 Hubungi Saya
+## Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_IG)
+[![Email](https://img.shields.io/badge/Email-779ECF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:EMAIL_KAMU@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-779ECF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/USERNAME_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-779ECF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/USERNAME_IG)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:779ECF,50:1b2a41,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
-
-*⚡ "Hardware is the body, software is the soul."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:779ECF&height=100&section=footer" width="100%" alt=""/>
 
 </div>
