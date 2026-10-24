@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="ADJI project" width="240"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
+  <img src="./assets/hero-light.png" alt="ADJI project - Electronic Engineer and Software Developer" width="100%"/>
+</picture>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=779ECF&center=true&vCenter=true&width=640&height=40&lines=Electronic+Engineer+%C2%B7+Software+Developer;Embedded+Systems+%C2%B7+IoT+%C2%B7+Industrial+Automation;From+schematic+to+deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=779ECF&center=true&vCenter=true&width=640&height=40&lines=Open+to+collaboration+on+embedded+%26+IoT+projects;Currently+building+with+ESP32+%C2%B7+Raspberry+Pi+%C2%B7+Python;Schematic+%E2%86%92+Firmware+%E2%86%92+Deployment" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -186,8 +189,15 @@ flowchart LR
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-779ECF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:EMAIL_KAMU@example.com)
+[![Email](https://img.shields.io/badge/Email-779ECF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:arcenixtermux@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-779ECF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/USERNAME_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-779ECF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/USERNAME_IG)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:779ECF&height=100&section=footer" width="100%" alt=""/>
+
+</div>(https://linkedin.com/in/USERNAME_LINKEDIN)
 [![Instagram](https://img.shields.io/badge/Instagram-779ECF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/USERNAME_IG)
 
 <br/>
