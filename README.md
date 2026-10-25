@@ -136,8 +136,8 @@ My day-to-day platforms are **Arduino**, **Espressif (ESP32 family)** and **Rasp
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>ESP Arcade</h4>
-      Four retro games on an ESP32-C3 with an SSD1306 OLED, playable with a single button.<br/><br/>
+      <h4>ESP32-C3-Tactical-Arcade-Game</h4>
+      DOOM-style raycaster engine for ESP32-C3 SuperMini + 0.96" OLED. Native, no PSRAM required. Walk, turn, and shoot in a tiny 3D maze.<br/><br/>
       <img src="https://img.shields.io/badge/ESP32--C3-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
     </td>
