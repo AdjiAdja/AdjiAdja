@@ -121,8 +121,8 @@ My day-to-day platforms are **Arduino**, **Espressif (ESP32 family)** and **Rasp
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Rack Environment Monitoring</h4>
-      Per-rack temperature and humidity nodes publishing over MQTT, with Telegram alerting.<br/><br/>
+      <h4>IOT-NodeMCU-Temperature-Humidity-</h4>
+      IoT environmental monitoring for server racks using ESP8266 + DHT22. Publishes temperature/humidity to MQTT, sends alerts via Telegram, supports OTA updates, and remote threshold configuration..<br/><br/>
       <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square"/>
       <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
