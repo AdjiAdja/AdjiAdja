@@ -128,8 +128,8 @@ My day-to-day platforms are **Arduino**, **Espressif (ESP32 family)** and **Rasp
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h4>3-Phase Power Monitoring</h4>
-      Electrical measurement over Modbus RTU using PZEM-004T modules and an ESP32 gateway.<br/><br/>
+      <h4>ESP32-Lora-Agri-Multinode</h4>
+     A complete, self-sustaining IoT solution for remote farm monitoring. Deployed sensor nodes collect soil and environmental data and transmit it over long distances via LoRa to a Wi-Fi gateway.<br/><br/>
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
       <img src="https://img.shields.io/badge/Modbus_RTU-5E9E0F?style=flat-square"/>
     </td>
