@@ -1,25 +1,29 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" alt="ADJI project - Electronic Engineer and Software Developer" width="100%"/></picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.png">
+  <img src="./hero-light.png" alt="ADJI project - Electronic Engineer and Software Developer" width="100%"/>
+</picture>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=779ECF&center=true&vCenter=true&width=640&height=40&lines=Open+to+collaboration+on+embedded+%26+IoT+projects;Currently+building+with+ESP32+%C2%B7+Raspberry+Pi+%C2%B7+Python;Schematic+%E2%86%92+Firmware+%E2%86%92+Deployment" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="#about"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-about-dark.svg"><img src="assets/nav-about-light.svg" alt="About" width="18%"/></picture></a><a href="#focus-areas"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-focus-dark.svg"><img src="assets/nav-focus-light.svg" alt="Focus" width="18%"/></picture></a><a href="#technical-stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-stack-dark.svg"><img src="assets/nav-stack-light.svg" alt="Stack" width="18%"/></picture></a><a href="#selected-work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-work-dark.svg"><img src="assets/nav-work-light.svg" alt="Projects" width="18%"/></picture></a><a href="#contact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nav-contact-dark.svg"><img src="assets/nav-contact-light.svg" alt="Contact" width="18%"/></picture></a>
-
-<br/>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dashboard-dark.svg"><img src="assets/dashboard-light.svg" alt="Dashboard: 3 focus areas, 14 tools, 4 featured builds, open to collaboration" width="100%"/></picture>
+[![About](https://img.shields.io/badge/About-779ECF?style=flat-square&labelColor=0d1117)](#about)
+[![Focus](https://img.shields.io/badge/Focus-779ECF?style=flat-square&labelColor=0d1117)](#focus-areas)
+[![Stack](https://img.shields.io/badge/Stack-779ECF?style=flat-square&labelColor=0d1117)](#technical-stack)
+[![Projects](https://img.shields.io/badge/Projects-779ECF?style=flat-square&labelColor=0d1117)](#selected-work)
+[![Contact](https://img.shields.io/badge/Contact-779ECF?style=flat-square&labelColor=0d1117)](#contact)
 
 </div>
 
 <br/>
 
-<a name="about"></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg"><img src="assets/h-about-light.svg" alt="About" width="100%"/></picture>
+## About
 
 I'm **Adji**, an electronic engineer and software developer. I design embedded hardware, write the firmware that runs on it, and build the software around it, so a device doesn't just work on the bench but keeps working in the field.
 
@@ -27,78 +31,168 @@ My day-to-day platforms are **Arduino**, **Espressif (ESP32 family)** and **Rasp
 
 <br/>
 
-<a name="focus-areas"></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-focus-dark.svg"><img src="assets/h-focus-light.svg" alt="Focus areas" width="100%"/></picture>
-
-<div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg"><img src="assets/focus-light.svg" alt="Focus areas: Embedded and IoT, Hardware and PCB, Industrial and Software" width="100%"/></picture>
-
-</div>
-
-<br/>
-
-<a name="technical-stack"></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg"><img src="assets/h-stack-light.svg" alt="Technical stack" width="100%"/></picture>
-
-<div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" alt="Technical stack" width="100%"/></picture>
-
-</div>
-
-<br/>
-
-<a name="selected-work"></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-work-dark.svg"><img src="assets/h-work-light.svg" alt="Selected work" width="100%"/></picture>
+## Focus Areas
 
 <table>
   <tr>
-    <td width="50%" align="center"><a href="https://github.com/arceniexa-dev/IOT-NodeMCU-Temperature-Humidity-"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-iot-rack-dark.svg"><img src="assets/p-iot-rack-light.svg" alt="IOT-NodeMCU-Temperature-Humidity-" width="100%"/></picture></a></td>
-    <td width="50%" align="center"><a href="https://github.com/arceniexa-dev/ESP32-Lora-Agri-Multinode"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-lora-agri-dark.svg"><img src="assets/p-lora-agri-light.svg" alt="ESP32-Lora-Agri-Multinode" width="100%"/></picture></a></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><a href="https://github.com/arceniexa-dev/ESP32-C3-Tactical-Arcade-Game"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-c3-arcade-dark.svg"><img src="assets/p-c3-arcade-light.svg" alt="ESP32-C3-Tactical-Arcade-Game" width="100%"/></picture></a></td>
-    <td width="50%" align="center"><a href="https://github.com/arceniexa-dev?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-dcim-dark.svg"><img src="assets/p-dcim-light.svg" alt="DCIM Web Application" width="100%"/></picture></a></td>
+    <td width="33%" valign="top">
+      <h4>Embedded &amp; IoT</h4>
+      Firmware for Arduino, ESP32 and STM32. Sensor nodes, MQTT messaging, wireless connectivity, and low-power design.
+    </td>
+    <td width="33%" valign="top">
+      <h4>Hardware &amp; PCB</h4>
+      Schematic capture and board layout in KiCad, Altium and EasyEDA. Circuit simulation, prototyping, and enclosure design.
+    </td>
+    <td width="33%" valign="top">
+      <h4>Industrial &amp; Software</h4>
+      PLC, HMI/SCADA and Modbus RTU integration. Dashboards, bots and web tools in Python to make field data useful.
+    </td>
   </tr>
 </table>
 
 <br/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-flow-dark.svg"><img src="assets/h-flow-light.svg" alt="Engineering workflow" width="100%"/></picture>
+## Technical Stack
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/workflow-dark.svg"><img src="assets/workflow-light.svg" alt="Engineering workflow: requirements, schematic and PCB, prototype, firmware and software, test and debug, deploy and monitor" width="100%"/></picture>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,py,matlab,kicad,autocad,linux,bash,git,github,docker,grafana&perline=7" alt="Tech stack icons" />
 
 </div>
 
 <br/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-activity-dark.svg"><img src="assets/h-activity-light.svg" alt="GitHub activity" width="100%"/></picture>
+<table>
+  <tr>
+    <th align="left" width="22%">Category</th>
+    <th align="left">Tools &amp; Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Microcontrollers</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>PCB Design</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Altium-A50000?style=flat-square&logo=altiumdesigner&logoColor=white"/>
+      <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Proteus-005A9C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Eagle-0A90C8?style=flat-square"/>
+      <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PCB_Wizard-555555?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mechanical CAD</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Fritzing-777777?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Industrial Tech</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PLC_Mitsubishi-0B7FC7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/HMI_%26_SCADA-E8742C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Modbus_RTU-5E9E0F?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Haiwell-D9363E?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>IOT-NodeMCU-Temperature-Humidity-</h4>
+      IoT environmental monitoring for server racks using ESP8266 + DHT22. Publishes temperature/humidity to MQTT, sends alerts via Telegram, supports OTA updates, and remote threshold configuration..<br/><br/>
+      <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>ESP32-Lora-Agri-Multinode</h4>
+     A complete, self-sustaining IoT solution for remote farm monitoring. Deployed sensor nodes collect soil and environmental data and transmit it over long distances via LoRa to a Wi-Fi gateway.<br/><br/>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Modbus_RTU-5E9E0F?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>ESP32-C3-Tactical-Arcade-Game</h4>
+      DOOM-style raycaster engine for ESP32-C3 SuperMini + 0.96" OLED. Native, no PSRAM required. Walk, turn, and shoot in a tiny 3D maze.<br/><br/>
+      <img src="https://img.shields.io/badge/ESP32--C3-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>DCIM Web Application</h4>
+      Full-stack data center infrastructure management tool for tracking racks, devices and capacity.<br/><br/>
+      <img src="https://img.shields.io/badge/Full--stack-779ECF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+> Replace or link these cards to your own repositories, e.g. `[Rack Environment Monitoring](https://github.com/USERNAME/REPO)`.
+
+<br/>
+
+## Engineering Workflow
+
+```mermaid
+flowchart LR
+    A[Requirements] --> B[Schematic & PCB]
+    B --> C[Prototype]
+    C --> D[Firmware & Software]
+    D --> E[Test & Debug]
+    E --> F[Deploy & Monitor]
+    E -. iterate .-> B
+```
+
+<br/>
+
+## GitHub Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arceniexa-dev&show_icons=true&hide_border=true&border_radius=24&bg_color=171c27&title_color=779ECF&icon_color=779ECF&text_color=c9d1d9">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=arceniexa-dev&show_icons=true&hide_border=true&border_radius=24&bg_color=e8edf4&title_color=4a6fa5&icon_color=4a6fa5&text_color=1f2a3a" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arceniexa-dev&show_icons=true&theme=transparent&title_color=779ECF&icon_color=779ECF&text_color=c9d1d9&hide_border=true">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=arceniexa-dev&show_icons=true&theme=default&title_color=4a6fa5&icon_color=4a6fa5&hide_border=true" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arceniexa-dev&show_icons=true&hide_border=true&border_radius=24&bg_color=171c27&title_color=779ECF&icon_color=779ECF&text_color=c9d1d9&layout=compact">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arceniexa-dev&show_icons=true&hide_border=true&border_radius=24&bg_color=e8edf4&title_color=4a6fa5&icon_color=4a6fa5&text_color=1f2a3a&layout=compact" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arceniexa-dev&layout=compact&theme=transparent&title_color=779ECF&text_color=c9d1d9&hide_border=true">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arceniexa-dev&layout=compact&theme=default&title_color=4a6fa5&hide_border=true" />
 </picture>
 
 </div>
 
 <br/>
 
-<a name="contact"></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-contact-dark.svg"><img src="assets/h-contact-light.svg" alt="Contact" width="100%"/></picture>
+## Contact
 
 <div align="center">
 
-<a href="mailto:arcenixtermux@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/c-mail-dark.svg"><img src="assets/c-mail-light.svg" alt="Email" width="31%"/></picture></a><a href="https://linkedin.com/in/sutan-alamsyah-lindu-adjie"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/c-in-dark.svg"><img src="assets/c-in-light.svg" alt="LinkedIn" width="31%"/></picture></a><a href="https://instagram.com/prammadia_qubrix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/c-ig-dark.svg"><img src="assets/c-ig-light.svg" alt="Instagram" width="31%"/></picture></a>
+[![Email](https://img.shields.io/badge/Email-779ECF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:arcenixtermux@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-779ECF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/sutan-alamsyah-lindu-adjie)
+[![Instagram](https://img.shields.io/badge/Instagram-779ECF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/prammadia_qubrix)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" alt="ADJI project footer" width="100%"/></picture>
+<br/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:779ECF&height=100&section=footer" width="100%" alt=""/>
